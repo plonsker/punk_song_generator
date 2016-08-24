@@ -1,4 +1,7 @@
-#Quick Punk Song Generator
+#Punk Song Generator
+
+There is a very good chance that the reader raised an eyebrow upon seeing the title of this repo. One should keep an open mind though, as there is a longterm, big-picture goal involved in this project.
+
 
 This repo is dedicated to a short algorithm for making hardcore punk riffs on the fly. In fact, it's just a single Ruby method at this time. It's short and to the point, just like the songs it will generate. 
 
