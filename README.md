@@ -10,3 +10,7 @@ As a kid, my entire understanding of music theory was limited to the numerical r
 I am turning back to my early youth and simplistic understanding of the fretboard in order to write a hardcore punk EP. The algorithm will generate random numbers from 0 to 12. Those numbers will be the frets played on a particular open bass string also selected by the algorithm. The 5 harshest sounding songs will be recorded for all to hear.
 
 This short algorithm marks the beginning of a personal exploration of writing music through computer programs. Over the next few years, I hope to develop something much more complex beyond something that generates mosh pit material.
+
+##8/24/2016
+
+12 has been removed from the range of frets as it is just an octave higher than the open note being played on and seemingly redundant for the purposes of this exercise. If a riff sounds better by switching out 0 for 12 during the organic process of this experiment then it will be done. 
