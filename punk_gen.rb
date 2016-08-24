@@ -7,6 +7,6 @@ def punk_gen(num)
 
 end
 
-num_from_range = (2..8).to_a.sample
+num_of_notes = (2..8).to_a.sample
 
-punk_gen(num_from_range)
+punk_gen(num_of_notes)
