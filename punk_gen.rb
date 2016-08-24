@@ -1,6 +1,6 @@
 def punk_gen(num)
   string = ['E','A', 'D', 'G'].sample
-  frets = (0..12).to_a.sample(num)
+  frets = (0..11).to_a.sample(num)
   
   p "String: #{string}"
   p "Frets: #{frets}"
